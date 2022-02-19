@@ -1,0 +1,1000 @@
+  515  cd apple
+  516  rm file1 file2
+  517  ls
+  518  rm d
+  519  rmdir d
+  520  ls
+  521  rmdir dd
+  522  ls
+  523  rmdir htg
+  524  ls
+  525  cd
+  526  cd siri
+  527  ls
+  528  rm sunny
+  529  ls
+  530  cd sunny
+  531  rmdir sunny
+  532  ls
+  533  rm file4 zunnu
+  534  ls
+  535  rm file4
+  536  rmdir zunnu
+  537  mv file4
+  538  mv --help file4
+  539  ls
+  540  mv --help file4
+  541  mv file4
+  542  mv --help 
+  543  rmdir zunnu
+  544  clear
+  545  rm anu
+  546  ls
+  547  rmdir anu
+  548  ls
+  549  mv anu
+  550  'mv --help'
+  551  ls
+  552  rm file1 file2
+  553  cd
+  554  cd suuny
+  555  mkdir sunny
+  556  cd
+  557  cd /
+  558  cd ..
+  559  ls
+  560  cd sunny 
+  561  ls
+  562  cd
+  563  cd sunny
+  564  cd
+  565  cd suuny
+  566  cd sunny
+  567  clear
+  568  cd
+  569  clear
+  570  vim five files
+  571  vim fivefile
+  572  cd
+  573  cd anu
+  574  ls
+  575  rm file{2..5}
+  576  ls
+  577  pwd
+  578  ls
+  579  mv file 2 file 3
+  580  ls
+  581  mv file2 file3
+  582  cd
+  583  cd siri
+  584  cd
+  585  mkdir anu
+  586  mkdir siri
+  587  cd siri
+  588  ls
+  589  touch file{1..6}
+  590  ls
+  591  mv file1 file6
+  592  ls
+  593  mv file2 file3 file4
+  594  ls
+  595  mv file{2..6}
+  596  mv file{2..5}
+  597  rm file3
+  598  ls
+  599  rm file{2 4.6}
+  600  clear
+  601  cd
+  602  clear
+  603  cd linuxpractice
+  604  cd
+  605  ls
+  606  mkdir linux practice
+  607  ls
+  608  cd linuxpractice
+  609  rm third
+  610  ls
+  611  rm siri
+  612  rmdir siri
+  613  rm forth
+  614  ls
+  615  rm kids
+  616  ls
+  617  rm anu
+  618  ls
+  619  rm sunny
+  620  ls
+  621  cd linux practice
+  622  rm file1 file2
+  623  ls
+  624  rm five
+  625  ls
+  626  rm linux
+  627  mkdir linux
+  628  cd
+  629  cd linux practice
+  630  ls
+  631  rmdir linux
+  632  ls
+  633  rmdir anu
+  634  ls
+  635  rmdir anika
+  636  ls
+  637  rmdir siri
+  638  ls
+  639  rmdir apple
+  640  ls
+  641  cd siri
+  642  ls
+  643  rm file2 file4
+  644  ls
+  645  rm file5 file6
+  646  ls
+  647  cd 
+  648  cd sunny
+  649  ls
+  650  cd 
+  651  rm siri
+  652  rmdir siri
+  653  ls
+  654  rmdir sunny
+  655  ls
+  656  rmdir zunnu
+  657  ls
+  658  cd zunnu
+  659  ls
+  660  rm file1 file2 file3
+  661  ls
+  662  rmdir file{1..5}
+  663  rmdir file{1...5}
+  664  ls
+  665  rm file5
+  666  ls
+  667  rm 1..5
+  668  ls
+  669  rm '}'
+  670  ls
+  671  rm 1...5}
+  672  ls
+  673  rm anika
+  674  rmdir anika
+  675  ls
+  676  rm {file
+  677  ls
+  678  rm {file1...5}
+  679  ls
+  680  rm {file1..5}
+  681  ls
+  682  cd
+  683  rmdir zunnu
+  684  ls
+  685  cd linuxpractice
+  686  cd
+  687  mkdir linuxpractice
+  688  ls
+  689  cd
+  690  cd linuxpractice
+  691  ls
+  692  touch file2 firstfile.txt
+  693  ls
+  694  ls /var/log/
+  695  ln -s /var/log/logdir
+  696  ls -l
+  697  ls logdir
+  698  pwd
+  699  clear
+  700  cd 
+  701  clear
+  702  vim 
+  703  vim
+  704  vim linuxpractice
+  705  vim secondfile
+  706  ls
+  707  vim
+  708  cd
+  709  cd zunnu
+  710  ls
+  711  mkdir zunnu
+  712  cd zunnu
+  713  vim file name
+  714  mkdir -p tally/t1/t2
+  715  ls
+  716  cd tally
+  717  ls
+  718  cd t2
+  719  cd t1
+  720  ls
+  721  vim filename
+  722  cat filename
+  723  cat > filename
+  724  vim filename
+  725  vim filename 
+  726  cat filename
+  727  cat >> filename
+  728  vim filename
+  729  clear
+  730  vim filename
+  731  cat filename
+  732  :w
+  733  vim filename
+  734  vim file name
+  735  head -4 file
+  736  tail -100 file
+  737  more file
+  738  id
+  739  head -3 file
+  740  :se nu
+  741  vim
+  742  vim file
+  743  ls
+  744  cd vagrantvms/
+  745  ls
+  746  cd ubuntu/q
+  747  cd ubuntu
+  748  ls
+  749  vi Vagrantfile 
+  750  cd
+  751  ls
+  752  touch f1
+  753  ls
+  754  cat >f1
+  755  cat f1
+  756  cat >f1
+  757  cat f1
+  758  cat >>f1
+  759  cat f1
+  760  ls
+  761  ln -s linuxpractice/ dd
+  762  ls -l
+  763  ls -li
+  764  cd dd
+  765  ls
+  766  touch zunnu
+  767  ls
+  768  cd ../linuxpractice/
+  769  ls
+  770  cd
+  771  rm -rf dd
+  772  ls
+  773  cd linuxpractice/
+  774  ls
+  775  cd
+  776  ln -s linuxpractice/ dd
+  777  ld
+  778  ls
+  779  rm -rf linuxpractice/
+  780  ls
+  781  cd dd
+  782  ln file f3
+  783  ls -li
+  784  cat file
+  785  cat f3
+  786  rm -rf file
+  787  cat f3
+  788  mkdir -p t1/t2/t3/t4
+  789  ls
+  790  cd t1
+  791  ls
+  792  cd t2
+  793  ls
+  794  cd
+  795  rmdir t1
+  796  rmdir t2
+  797  cd
+  798  cd t1/t2/t3/t4
+  799  ls
+  800  cd
+  801  mkdir -p t1/t2/t3/t4
+  802  ls
+  803  mkdir -p /s1/s2/s3
+  804  ls
+  805  mkdir -p s1/s2/s3
+  806  ls
+  807  cd s1
+  808  ls
+  809  cd s2
+  810  ls
+  811  rmdir t1
+  812  history
+  813  rmdir t4
+  814  ls
+  815  cd ../..
+  816  rmdir t4
+  817  ls
+  818  cd t1
+  819  ls
+  820  cd t2
+  821  ls 
+  822  cd t3
+  823  ls 
+  824  rmdir t4
+  825  cd
+  826  cd 
+  827  cd t1/t2/
+  828  ls
+  829  rmdir t2
+  830  rmdir t3
+  831  ls
+  832  cd
+  833  rm -rf t1
+  834  ls
+  835  rm -rf s1
+  836  ls
+  837  rm -rf f1
+  838  ls
+  839  rm -rf f3
+  840  ls
+  841  cat filename
+  842  grep -i january
+  843  grep -i january filename
+  844  grep archivedfilename
+  845  grep archived filename
+  846  grep -i archived filename
+  847  free -m
+  848  clear
+  849  cat filename
+  850  vim filename
+  851  ".file.swap."
+  852  rm filename
+  853  ls
+  854  vim filename
+  855  ".filename.swp"
+  856  vim filename
+  857  ".filename.swp."
+  858  ".filename.swp"
+  859  ls-l
+  860  ls -a
+  861  ls -la
+  862  rm -rf .filename.swp 
+  863  vim filename
+  864  mkdir -p
+  865  clear
+  866  mkdir -p t1/t2/t3/t4
+  867  ls
+  868  cd
+  869  cd t1
+  870  ls
+  871  t2
+  872  t3
+  873  cd t2
+  874  ls
+  875  cd t3
+  876  ls
+  877  rm t1
+  878  rmdir t2
+  879  ls
+  880  rmdir t1
+  881  ls
+  882  rmdir t3
+  883  history
+  884  cd
+  885  mkdir -p s1/s2/s3/s4
+  886  ls
+  887  rmdir t1
+  888  rm -rf
+  889  ls
+  890  rm -rf s1
+  891  ls
+  892  rm -rf t1
+  893  ls
+  894  cat >filename
+  895  cat file1.txt > file2.txt
+  896  ls
+  897  gbhnnnnnnnnnnnm
+  898  gn
+  899  ls
+  900  history
+  901  cat >filename
+  902  cat > filename
+  903  cat  options file1 file2 ..
+  904  cat
+  905  ls
+  906  cat list.2
+  907  cat
+  908  cat >> 
+  909  cat > filename
+  910  cat >> filename
+  911  clear
+  912  mkdir -p p1/p2/p3/p4
+  913  ls
+  914  cat > p1
+  915  cat >anu
+  916  cat >> anu
+  917  ls
+  918  file2.txt
+  919  vim file2.txt
+  920  cat file2.txt
+  921  cat >> file2.txt
+  922  cat file2.txt
+  923  cat > file2.txt
+  924  cat file2.txt
+  925  rm -rf file2.txt
+  926  ls
+  927  vim filename
+  928  cat filename
+  929  vim filename
+  930  cat > file.txt
+  931  cat >> file.txt
+  932  cat file.txt
+  933  ln -s
+  934  ln -s filename1 filename2
+  935  ll
+  936  ls -li
+  937  clear
+  938  ls -li
+  939  grep
+  940  grep/devops
+  941  rm -rf file.txt
+  942  ls
+  943  rm -rf p1
+  944  ls
+  945  rm -rf dd
+  946  ls
+  947  vim thirdfile
+  948  head /thirdfile
+  949  vim head -10/thirdfile
+  950  vim -h
+  951  vim -t
+  952  vim grep/commands
+  953  less /thirdfile
+  954  ls
+  955  vim thirdfile
+  956  head /thirdfile
+  957  pwd
+  958  head /etc/passwd
+  959  tail /etc/passwd
+  960  vim thirdfile
+  961  grep jump thirdfile
+  962  ll
+  963  ls -ll
+  964  cat thirdfile
+  965  grep -i jump thirdfile
+  966  grep -ir
+  967  grep -ir thirdfile
+  968  grep i mem
+  969  free -m
+  970  df -h
+  971  free -m
+  972  / -thirdfile
+  973  mkdir apple
+  974  ls
+  975  ln -s 
+  976  ln -s apple banana
+  977  ll
+  978  ln -s apple banana
+  979  ll
+  980  ls
+  981  ll
+  982  touch p1/p2/p3
+  983  touch file p1 p2 p3
+  984  ls
+  985  ln p1 s1
+  986  ll
+  987  mkdir -p tally/t1/t2
+  988  ls
+  989  cat > tally
+  990  mkdir -p tally/t1/t2
+  991  ls
+  992  mkdir -p tally/t1/t2/t3
+  993  ls
+  994  t1
+  995  t1/t2
+  996  t1 t2
+  997  touch tally file k1 k2 k3
+  998  ls
+  999  k1 k2
+ 1000  t1/k1
+ 1001  rm k1
+ 1002  ls
+ 1003  rm k2
+ 1004  rm k3
+ 1005  ls
+ 1006  cat > filename
+ 1007  cat >> filename
+ 1008  ls
+ 1009  cat > file.txt
+ 1010  cat >> file.txt
+ 1011  mkdir apple
+ 1012  ls
+ 1013  mkdir mango
+ 1014  ls
+ 1015  touch files m1 m2 m3 m4
+ 1016  ls
+ 1017  ln -s
+ 1018  rm m1
+ 1019  ls
+ 1020  rm m2
+ 1021  ln -s
+ 1022  touch ln -s file n1 n2 n3 n4
+ 1023  ll
+ 1024  ls -li
+ 1025  ln -ls
+ 1026  |
+ 1027  grep -i
+ 1028  free -m
+ 1029  grep -ir
+ 1030  df -h
+ 1031  df -h|grep -i lock|
+ 1032  df -h|grep -i lock| awk 
+ 1033  sed -i
+ 1034  clear
+ 1035  vim thirdfile
+ 1036  cat thirdfile
+ 1037  vim thirdfile.txt
+ 1038  ls -a-
+ 1039  ls -a
+ 1040  -l
+ 1041  ln -s
+ 1042  vim thirdfile
+ 1043  cd
+ 1044  ls
+ 1045  rm m3
+ 1046  ls
+ 1047  rm m4
+ 1048  rm p1
+ 1049  rm p2
+ 1050  rm p3
+ 1051  rm s1
+ 1052  ls
+ 1053  rm file
+ 1054  ls
+ 1055  rm filename
+ 1056  ls
+ 1057  rm files
+ 1058  ls
+ 1059  rmdir thirdfile
+ 1060  rm thirdfile
+ 1061  ls
+ 1062  rm secondfile
+ 1063  ls
+ 1064  rm file.txt
+ 1065  ls
+ 1066  rmdir apple
+ 1067  ls
+ 1068  rm apple
+ 1069  ls
+ 1070  rmdir apple
+ 1071  ls
+ 1072  rm filename2
+ 1073  ls
+ 1074  rmdir banana
+ 1075  rm banana
+ 1076  ls
+ 1077  cd apple
+ 1078  ls
+ 1079  rmdir apple
+ 1080  ls
+ 1081  cd
+ 1082  rmdir anu
+ 1083  rm anu
+ 1084  ls
+ 1085  rm mango
+ 1086  rmdir mango
+ 1087  ls
+ 1088  rm tally
+ 1089  rmdir tally
+ 1090  ls
+ 1091  cd tally
+ 1092  ls
+ 1093  rm t1
+ 1094  rmdir t1
+ 1095  ls
+ 1096  rm t1/t2
+ 1097  ls
+ 1098  rmdir t1
+ 1099  ls
+ 1100  rm t1/t2
+ 1101  cd
+ 1102  rmdir mango
+ 1103  vim filename
+ 1104  ls
+ 1105  cd Downloads/
+ 1106  ls
+ 1107  ssh -i zunnu.pem ubuntu@3.80.147.18
+ 1108  sudo chmod 400 zunnu.pem 
+ 1109  ssh -i zunnu.pem ubuntu@3.80.147.18
+ 1110  ssh -i zunnu.pem ubuntu@34.238.136.184
+ 1111  cd Downloads/
+ 1112  ssh -i zunnu.pem ubuntu@3.82.235.96
+ 1113  cd Document
+ 1114  cd Downloads/
+ 1115  ls
+ 1116  ssh -i zunnu.pem centos3.82.235.96
+ 1117  cd Document
+ 1118  cd Do
+ 1119  cd Document
+ 1120  cd Do/
+ 1121  clear
+ 1122  cd Document
+ 1123  cd DO
+ 1124  cd Downloads
+ 1125  ssh -i zunnu.pem centos@18.204.202.225
+ 1126  cd Document
+ 1127  cd
+ 1128  cd Download
+ 1129  clear
+ 1130  cd Downloads
+ 1131  ssh -i zunnu.pem ec2 -user
+ 1132  ssh -i zunnu.pem ec2-user@18.205.103.177
+ 1133  ssh ec2-user@18.205.103.177
+ 1134  ssh -i ec2-user@18.205.103.177
+ 1135  sudo ssh ec2-user@18.205.103.177
+ 1136  ssh -i zunnu.pem ec2-user@18.205.103.177
+ 1137  ssh ec2-user@18.205.103.177
+ 1138  ssh -i "zunnu.pem" ec2-user@ec2-3-80-140-44.compute-1.amazonaws.com
+ 1139  52.72.159.211
+ 1140  clear
+ 1141  ssh -i "zunnu.pem" ec2-user@ec2-3-80-140-44
+ 1142  cd Document
+ 1143  cd Downloads
+ 1144  ls
+ 1145  ssh -i "zunnu.pem" ec2-user@ec2-3-80-140-44
+ 1146  ssh -i "zunnu.pem" ec2-user@52.72.159.211
+ 1147  ssh -i zunnu.pem  ec2-user@52.72.159.211
+ 1148  ls
+ 1149  sudo chmod 400 zunnu.pem 
+ 1150  ssh -i zunnu.pem  ec2-user@52.72.159.211
+ 1151  ssh -i zunnu.pem centos@52.72.159.211
+ 1152  ssh -i zunnu.pem centos7@52.72.159.211
+ 1153  ssh -i zunnu.pem ec2-user@52.72.159.211
+ 1154  ssh -i zunnu.pem ec2-user@34.230.86.57
+ 1155  ssh -i zunnu.pem centos@34.230.86.57
+ 1156  clear
+ 1157  ssh -i
+ 1158  clear
+ 1159  ssh -i zunnu.pem centos@52.207.234.208
+ 1160  ssh -i zunnu.pem ec2@52.207.234.208
+ 1161  ssh -i zunnu.pem ec2-user@52.207.234.208
+ 1162  ssh -i/downloads
+ 1163  ssh -i
+ 1164  ssh -i /do
+ 1165  cd /Downloads
+ 1166  ls
+ 1167  cd Downloads
+ 1168  ls
+ 1169  ssh -i zunnu.pem ec2-user@52.207.234.208
+ 1170  clear
+ 1171  ssh -i zunnu.pem ec2-user@52.207.234.208
+ 1172  ssh -i Downloads/zunnu
+ 1173  ssh -i Downloads/zunnu.pem ec2-user@52.207.234.208
+ 1174  ssh -i zunnu.pem ec2-user@52.207.234.208
+ 1175  cd Downloads
+ 1176  ssh -i
+ 1177  ssh -i zunnu.pem ec2-user@52.207.234.208
+ 1178  ssh -l
+ 1179  ssh -i zunnu.pem ec2-user@44.201.183.7
+ 1180  ssh -i zunnu.pem ec2-user@52.207.234.208
+ 1181  cd Downloads
+ 1182  ssh -i Downloads zunnu.pem ec2@user44.201.183.7
+ 1183  cd Downloads
+ 1184  ssh -i Downloads zunnu.pem ec2@user44.201.183.7
+ 1185  sudo -i
+ 1186  ssh -i Downloads/ zunnu.pem ec2@user44.201.183.7
+ 1187  ls
+ 1188  cd Downloads
+ 1189  ssh -l zunnu.pem centos44.201.183.7
+ 1190  ssh -i Downloads/ zunnu.pem ec2@user44.201.183.7
+ 1191  sudo -i
+ 1192  netstat -antlp | grep 80
+ 1193  sudo apt install net-tools figlet -y
+ 1194  apt update
+ 1195  sudo apt update
+ 1196  figlet done
+ 1197  figlet sneha
+ 1198  cat /etc/passwd
+ 1199  sudo vim /etc/group
+ 1200  history 
+ 1201  cd
+ 1202  cd /f/
+ 1203  ls
+ 1204  cd Downloads
+ 1205  https://github.com/devopshydclub/vprofile-project.git
+ 1206  git clone https://github.com/devopshydclub/vprofile-project.git
+ 1207  cd vprofile project
+ 1208  sudo apt install git
+ 1209  ls
+ 1210  git checkout local setup
+ 1211  git clone paste
+ 1212  git clone https://github.com/devopshydclub/vprofile-project.git
+ 1213  cd vprofile project
+ 1214  ls
+ 1215  cd vprofile-project
+ 1216  ls
+ 1217  git checkout local-setup
+ 1218  git checkout original-setup
+ 1219  ls
+ 1220  cd vagrant
+ 1221  ls
+ 1222  cd Manual_provisioning/
+ 1223  ls
+ 1224  cat vagrant file
+ 1225  cat Vagrantfile
+ 1226  Vagrantup
+ 1227  Vagrant up
+ 1228  vagarant up
+ 1229  sudo apt install <deb name>
+ 1230  ls
+ 1231  vagrant up
+ 1232  ls
+ 1233  cat Vagrantfile
+ 1234  vagrant up
+ 1235  vagrant plugin install vagrant-hostmanager
+ 1236  vagrant up
+ 1237  vi Vagrantfile 
+ 1238  vagrant up
+ 1239  vi Vagrantfile 
+ 1240  vagrant up
+ 1241  vi Vagrantfile 
+ 1242  vagrant up
+ 1243  vi Vagrantfile 
+ 1244  vagrant up
+ 1245  vi Vagrantfile 
+ 1246  vagrant up
+ 1247  vi Vagrantfile 
+ 1248  ip a
+ 1249  vi Vagrantfile 
+ 1250  vagrant up
+ 1251  vi Vagrantfile 
+ 1252  vagrant up
+ 1253  vi Vagrantfile 
+ 1254  vagrant up
+ 1255  vi Vagrantfile 
+ 1256  vagrant reload
+ 1257  cd /opt/
+ 1258  ls
+ 1259  mkdir centos && cd centos && vagrant init geerlingguy/centos7
+ 1260  sudo mkdir centos && cd centos && vagrant init geerlingguy/centos7
+ 1261  ls
+ 1262  vagrant init geerlingguy/centos7
+ 1263  vagrant
+ 1264  sudo -i
+ 1265  cd -
+ 1266  cd
+ 1267  cd Downloads/vprofile-project/vagrant/Manual_provisioning/
+ 1268  vagrant reload
+ 1269  vagrant up
+ 1270  vagrant ssh webo1
+ 1271  vagrant ssh web01
+ 1272  vagrant ssh app01
+ 1273  free -m
+ 1274  sync; echo 1 > /proc/sys/vm/drop_caches
+ 1275  sudo sync; echo 1 > /proc/sys/vm/drop_caches
+ 1276  ll
+ 1277  cd Downloads
+ 1278  ls
+ 1279  ssh -i zunnu.pem centos@3.89.108.201
+ 1280  cd Downloads
+ 1281  ssh -i zunnu.pem centos@3.89.108.201
+ 1282  ls
+ 1283  cd Downloads/
+ 1284  ls
+ 1285  ssh -i zunnu.pem centos@3.89.108.201
+ 1286  ssh -i Downloads/ zunnu.pem centos@3.89.108.201
+ 1287  cd Downloads
+ 1288  ssh -i zunnu.pem centos@3.89.108.201
+ 1289  \
+ 1290  ssh -i zunnu.pem centos@3.89.108.201
+ 1291  cd Downloads
+ 1292  ls
+ 1293  ssh -i zunnu.pem centos@3.89.108.201
+ 1294  cd Downloads
+ 1295  ssh -i zunnu.pem centos@3.89.108.201
+ 1296  ssh -i Downloads/ zunnu.pem ec2-user@54.174.157.122
+ 1297  ls
+ 1298  cd Download
+ 1299  cd Downloads
+ 1300  ssh -i zunnu.pem ec2-user@54.174.157.122
+ 1301  sudo apt update
+ 1302  sudo apt install git
+ 1303  git --version
+ 1304  mkdir gitrepos
+ 1305  cd gitrepos
+ 1306  mkdir bucky
+ 1307  cd bucky/
+ 1308  git init
+ 1309  ls
+ 1310  ls -a
+ 1311  touch bashfiles{1..5}
+ 1312  ls
+ 1313  mkdir rollbackscripts
+ 1314  ls
+ 1315  vim rollbackscripts/chuck
+ 1316  ls
+ 1317  git status
+ 1318  git add .
+ 1319  mv ~/.gitconfig /tmp/
+ 1320  ls
+ 1321  git status
+ 1322  git commit -m "first commit"
+ 1323  git config --global user.email "snehapanuganti123@gmil.com"
+ 1324  git config --global user.name "sneha"
+ 1325  cat ~/.gitconfig
+ 1326  git commit -m "first commit"
+ 1327  ls
+ 1328  vim bashfiles1
+ 1329  git status
+ 1330  git add bashfiles1
+ 1331  git status
+ 1332  git commit -m "bash shell"
+ 1333  ls
+ 1334  vim bashfile2
+ 1335  git status
+ 1336  git add bashfile2
+ 1337  git commit -m "yaml text"
+ 1338  git log
+ 1339  git log --oneline
+ 1340  git show 766ba21
+ 1341  vim bashfiles2
+ 1342  git add
+ 1343  git commit -m "bash 2 symbols"
+ 1344  git log --online
+ 1345  git log --oneline
+ 1346  vim bashfiles1
+ 1347  git status
+ 1348  git add bashfiles1
+ 1349  ls
+ 1350  cd gitrepos/
+ 1351  ls
+ 1352  cd bucky/
+ 1353  ls
+ 1354  cd rollbackscripts/
+ 1355  ls
+ 1356  cd chuck
+ 1357  cd ../../
+ 1358  cd bucky
+ 1359  mkdir gitrepos
+ 1360  cd gitrepos
+ 1361  cd
+ 1362  cd gitrepos/
+ 1363  ls
+ 1364  cd bucky/
+ 1365  mkdir gitrepos
+ 1366  ls
+ 1367  mkdir bucky
+ 1368  ls
+ 1369  git init
+ 1370  ls
+ 1371  ls -a
+ 1372  git log
+ 1373  git show 766ba21
+ 1374  vim bashfiles2
+ 1375  git add
+ 1376  git add .
+ 1377  git command -m "bash 2 symbols"
+ 1378  git commit -m "bash 2 symbols"
+ 1379  git log --online
+ 1380  git log --oneline
+ 1381  git diff 766ba21..af220fd
+ 1382  git diff 319f61f..af220fd
+ 1383  vim bashfiles1
+ 1384  vim bashfiles2
+ 1385  git status
+ 1386  git add .
+ 1387  git commit -m "telsa"
+ 1388  vim bashfiles2
+ 1389  git status
+ 1390  gut diff
+ 1391  git checkout bashfiles2
+ 1392  cat bashfiles2
+ 1393  vim bashfiles2
+ 1394  git diff
+ 1395  git add .
+ 1396  git status
+ 1397  git restore --staged bashfiles2
+ 1398  git checkout bashfiles2
+ 1399  ls
+ 1400  cat bashfiles2
+ 1401  vim bashfiles2
+ 1402  git diff
+ 1403  git add
+ 1404  git add .
+ 1405  git diff --cached
+ 1406  git commit -m "edison"
+ 1407  git log --oneline
+ 1408  ls
+ 1409  git revert HEAD
+ 1410  cd gitreops/
+ 1411  cd gitreops /
+ 1412  clear
+ 1413  cd gitreops/
+ 1414  clear
+ 1415  cd gitreops/
+ 1416  cd gitrepos/
+ 1417  cd bucky/
+ 1418  git diff
+ 1419  git add .
+ 1420  git diff --cached
+ 1421  git commit -m "edison"
+ 1422  git log --oneline
+ 1423  ls
+ 1424  cat.git/config
+ 1425  ls
+ 1426  git log --oneline
+ 1427  git rest --hard 84de5b7
+ 1428  git reset --hard 84de5b7
+ 1429  git log --oneline
+ 1430  ls -a
+ 1431  cat .git/config
+ 1432  git branch -M main
+ 1433  git push -u origin main
+ 1434  ls
+ 1435  cat .git/config
+ 1436  git remote add origin https://github.com/zunnu2017/bucky.git
+ 1437  ssh key-gen
+ 1438  ssh -keygen
+ 1439  ssh-keygen
+ 1440  sudo cat /home/devops/.ssh/id_rsa.pub
+ 1441  AAAAB3NzaC1yc2EAAAADAQABAAABgQDSjzyl29GBjI2bWV/oO5QaKwn4KmisPDJUS6jP6xdfvRwZYy5Xk0rVN5NvopKyH5Qgae6f8ySB75A2WBVaekKm3ETdVPT+FLxHNG+jPS8RU1h4oaQBmo8JHG15taqbM/2d07W3ME1HXYJcMGWqlILh4FMxInDrHJJUaMkpu+0TplM/J3CrH+0+LzQPmO1CQw1ENNQyksS8HoLSxz6GKr22x1NqW+vY2Yc7FmcgKQOqi6mMwYvVBN0+Tyv3fxTJtMdWbvquK/n9crg+N/niwdIrlYdH+y2NBRrYZHsMqjN7Q3jdHwpr/Jld/hTuZ3srwK77PgbqjEvv1m9I24WQhLWe/S6hn9d7MFMXAiJ+Pf3f3xMZQ3jEQ21ZZIAcvXr2V0PkiWVE0qZcfKwwB4gQtv+5bjRZSs414qfYe34hVNlDqNaR6Ag+EYGe9/he3QX1YwHmAQ4bDv7V05CrkOIeYe0fnxA+0rox5j4mJvrBUKjwv1dQCs6jtDoWheS5RsXrfBc=
+ 1442  ssh-keygen
+ 1443  cat /home/devops/.ssh/id_rsa.pub
+ 1444  git remote add origin git@github.com:zunnu2017/bucky.git
+ 1445  git remote add bittu  git@github.com:zunnu2017/bucky.git
+ 1446  git push -u bittu 
+ 1447  git pull
+ 1448  vim bashfiles2
+ 1449  git add .
+ 1450  git commit -m "testing pushpull"
+ 1451  git push bittu main
+ 1452  git branch -c chat
+ 1453  cd git
+ 1454  ls
+ 1455  clear
+ 1456  git branch -c chat
+ 1457  cd gitrepos/
+ 1458  ls
+ 1459  cd bucky/
+ 1460  cd gitreops/
+ 1461  cd gitrepos/
+ 1462  git branch -c chat
+ 1463  cd bucky/
+ 1464  git branch -c chat
+ 1465  git checkout chat
+ 1466  ls
+ 1467  git rm bashfile*
+ 1468  ls
+ 1469  s
+ 1470  touch pyfiles{1..4}.py
+ 1471  ls
+ 1472  git add .
+ 1473  git commit -m "py files"
+ 1474  git push origin chat
+ 1475  #!/bin/bash
+ 1476  clear
+ 1477  vagrant ssh scriptbox 
+ 1478  https://www.vagrantup.com/downloads.htm
+ 1479  cd vagrant
+ 1480  cd vagrant//
+ 1481  https://www.vagrantup.com/downloads.html
+ 1482  vagrant ssh scriptbox
+ 1483  vagrant ssh scriptbox^c
+ 1484  vagrant init
+ 1485  cd gitrepos/
+ 1486  cd bucky/
+ 1487  git branch -c chat
+ 1488  git chectout chat
+ 1489  git checkout chat
+ 1490  ls
+ 1491  git branch -a
+ 1492  git rm bashfile*
+ 1493  ls
+ 1494  git mv scriptsdata pyscriptsdata
+ 1495  touch scriptsdata
+ 1496  ls
+ 1497  touch pyscriptsdata
+ 1498  ls
+ 1499  touch pyfiles{1..4}.py
+ 1500  ls
+ 1501  git add .
+ 1502  git command -m "py files"
+ 1503  git commit -m "py files"
+ 1504  git mv scriptsdata
+ 1505  git mv scriptsdata pyscriptsdata
+ 1506  git mv scriptsdata pyscripts
+ 1507  git push origin chat
+ 1508  cat ~/.ssh/id_rsa.pub 
+ 1509  git status
+ 1510  git remote add sneha git@github.com:snehapanuganti/bucky.git
+ 1511  git commit -m "py script added"
+ 1512  git push sneha
+ 1513  ls
+ 1514  history > git-history.txt
